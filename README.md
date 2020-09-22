@@ -3,4 +3,4 @@
 <img src="https://github.com/anja-sunjic/Atlantbh-Restaurants-UI-UX/blob/master/MenuItems.png?raw=true" width=600>
 <br>
 <br>
-<img src="https://github.com/anja-sunjic/Atlantbh-Restaurants-UI-UX/blob/master/Add New Restaurant - Menu (food).png?raw=true" width=600>
+<img src="https://github.com/anja-sunjic/Atlantbh-Restaurants-UI-UX/blob/master/Menu (food).png?raw=true" width=600>
